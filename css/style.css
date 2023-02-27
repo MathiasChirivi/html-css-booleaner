@@ -74,3 +74,22 @@ thead{
 tbody tr{
     background-color: rgb(177, 229, 242);
 }
+
+.title-one{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover; 
+    width: 230px;
+    height: 180px;
+    color: white;
+    font-size: 18px;
+}
+
+
+.title-two{
+    background-image: url(../img/graph.jpg);
+    background-size: cover; 
+    width: 230px;
+    height: 180px;
+    color: white;
+    font-size: 18px;
+}
