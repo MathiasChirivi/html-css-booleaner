@@ -49,3 +49,28 @@ a{
 .crediti{
     font-size: smaller;
  }
+
+ .sinistra{
+    width: 20%;
+}
+
+.centro{
+    width: 20%;
+}
+
+.destra{
+    width: 50%;
+}
+
+.centre{
+    background-color: white;
+}
+
+thead{
+    background-color: rgb(32, 169, 229);
+    color: white;
+}
+
+tbody tr{
+    background-color: rgb(177, 229, 242);
+}
