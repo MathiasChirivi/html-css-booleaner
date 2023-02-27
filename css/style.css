@@ -1,0 +1,17 @@
+body{
+    margin: 0 0 auto 0;
+}
+
+header {
+    height: 100px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: auto 200px;
+    background-position: 70px top;
+}
+
+.logo{
+    max-width: 200px;
+    margin-left: 5px;
+    margin-top: 40px;
+}
